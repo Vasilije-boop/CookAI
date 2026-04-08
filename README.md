@@ -1,4 +1,4 @@
-# Key challange
+# Key challenge
   - Working with HF API
   - React State
   - React side effects
